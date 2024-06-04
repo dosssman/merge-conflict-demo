@@ -2,7 +2,8 @@ import random
 
 def generate_random_code(num_lines):
     code = ""
-    keywords = ["if", "else", "covid", "is", "a", "hoax", "jk", "return", "try", "except"]
+    
+    keywords = ["if", "kernels", "covid", "is", "a", "hoax", "jk", "return", "try", "except"]
     datatypes = ["int", "float", "str", "list", "dict", "tuple", "bool"]
     functions = ["add", "fly", "epstein", "didnot", "kill", "himself", "search", "print"]
     operators = ["+", "-", "*", "/", "=", "==", "!=", "<", ">", "<=", ">=", "and", "or", "not"]
