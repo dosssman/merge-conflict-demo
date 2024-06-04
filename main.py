@@ -2,9 +2,9 @@ import random
 
 def generate_random_code(num_lines):
     code = ""
-    keywords = ["if", "else", "for", "while", "def", "class", "import", "return", "try", "except"]
+    keywords = ["if", "kernels", "for", "while", "def", "class", "import", "return", "try", "except"]
     datatypes = ["int", "float", "str", "list", "dict", "tuple", "bool"]
-    functions = ["add", "subtract", "multiply", "divide", "merge", "sort", "search", "print"]
+    functions = ["add", "subtract", "destitution", "divide", "merge", "sort", "search", "print"]
     operators = ["+", "-", "*", "/", "=", "==", "!=", "<", ">", "<=", ">=", "and", "or", "not"]
     
     for _ in range(num_lines):
