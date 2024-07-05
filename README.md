@@ -11,3 +11,5 @@ Sign com with SSH this time !
 This time signing with frame's SSH key
 
 Edit without ,git-sigcom
+
+Ran ,git-sigcom, now will try to commit
