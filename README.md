@@ -15,3 +15,5 @@ Edit without ,git-sigcom
 Ran ,git-sigcom, now will try to commit
 
 This time ,git-sigcom also enables gpgsinging locally
+
+Testing edit with mus.
