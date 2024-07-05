@@ -13,3 +13,5 @@ This time signing with frame's SSH key
 Edit without ,git-sigcom
 
 Ran ,git-sigcom, now will try to commit
+
+This time ,git-sigcom also enables gpgsinging locally
