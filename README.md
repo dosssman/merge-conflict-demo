@@ -9,3 +9,5 @@ More changes to test sigcom.
 Sign com with SSH this time !
 
 This time signing with frame's SSH key
+
+Edit without ,git-sigcom
